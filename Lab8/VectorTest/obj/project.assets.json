@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "LinearAlgebra/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/LinearAlgebra.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LinearAlgebra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinearAlgebra/1.0.0": {
+      "type": "project",
+      "path": "../LinearAlgebra/LinearAlgebra.csproj",
+      "msbuildProject": "../LinearAlgebra/LinearAlgebra.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "LinearAlgebra >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/ataev/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/ataev/Рабочий стол/Labs/Lab8/VectorTest/VectorTest.csproj",
+      "projectName": "VectorTest",
+      "projectPath": "/home/ataev/Рабочий стол/Labs/Lab8/VectorTest/VectorTest.csproj",
+      "packagesPath": "/home/ataev/.nuget/packages/",
+      "outputPath": "/home/ataev/Рабочий стол/Labs/Lab8/VectorTest/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/ataev/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/home/ataev/Рабочий стол/Labs/Lab8/LinearAlgebra/LinearAlgebra.csproj": {
+              "projectPath": "/home/ataev/Рабочий стол/Labs/Lab8/LinearAlgebra/LinearAlgebra.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.126/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

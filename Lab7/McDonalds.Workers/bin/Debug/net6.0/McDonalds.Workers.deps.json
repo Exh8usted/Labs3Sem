@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "McDonalds.Workers/1.0.0": {
+        "dependencies": {
+          "McDonalds.AdditionalClasses": "1.0.0",
+          "McDonalds.Emitters": "1.0.0"
+        },
+        "runtime": {
+          "McDonalds.Workers.dll": {}
+        }
+      },
+      "McDonalds.AdditionalClasses/1.0.0": {
+        "runtime": {
+          "McDonalds.AdditionalClasses.dll": {}
+        }
+      },
+      "McDonalds.Emitters/1.0.0": {
+        "dependencies": {
+          "McDonalds.AdditionalClasses": "1.0.0"
+        },
+        "runtime": {
+          "McDonalds.Emitters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "McDonalds.Workers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "McDonalds.AdditionalClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "McDonalds.Emitters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

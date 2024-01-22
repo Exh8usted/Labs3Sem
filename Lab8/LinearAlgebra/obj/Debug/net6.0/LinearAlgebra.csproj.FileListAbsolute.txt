@@ -1,0 +1,49 @@
+/home/ataev/Рабочий стол/Labs/Lab5/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.csproj.AssemblyReference.cache
+/home/ataev/Рабочий стол/Labs/Lab5/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.GeneratedMSBuildEditorConfig.editorconfig
+/home/ataev/Рабочий стол/Labs/Lab5/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.AssemblyInfoInputs.cache
+/home/ataev/Рабочий стол/Labs/Lab5/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.AssemblyInfo.cs
+/home/ataev/Рабочий стол/Labs/Lab5/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.csproj.CoreCompileInputs.cache
+/home/ataev/Рабочий стол/Labs/Lab5/LinearAlgebra/bin/Debug/net6.0/LinearAlgebra.deps.json
+/home/ataev/Рабочий стол/Labs/Lab5/LinearAlgebra/bin/Debug/net6.0/LinearAlgebra.dll
+/home/ataev/Рабочий стол/Labs/Lab5/LinearAlgebra/bin/Debug/net6.0/ref/LinearAlgebra.dll
+/home/ataev/Рабочий стол/Labs/Lab5/LinearAlgebra/bin/Debug/net6.0/LinearAlgebra.pdb
+/home/ataev/Рабочий стол/Labs/Lab5/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.dll
+/home/ataev/Рабочий стол/Labs/Lab5/LinearAlgebra/obj/Debug/net6.0/ref/LinearAlgebra.dll
+/home/ataev/Рабочий стол/Labs/Lab5/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.pdb
+D:/code/labs/Lab5/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.GlobalUsings.g.cs
+D:/code/labs/Lab5/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.csproj.AssemblyReference.cache
+D:/code/labs/Lab5/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.GeneratedMSBuildEditorConfig.editorconfig
+D:/code/labs/Lab5/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.AssemblyInfoInputs.cache
+D:/code/labs/Lab5/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.AssemblyInfo.cs
+D:/code/labs/Lab5/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.csproj.CoreCompileInputs.cache
+D:/code/labs/Lab5/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.dll
+D:/code/labs/Lab5/LinearAlgebra/obj/Debug/net6.0/ref/LinearAlgebra.dll
+D:/code/labs/Lab5/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.pdb
+D:/code/labs/Lab5/LinearAlgebra/bin/Debug/net6.0/LinearAlgebra.deps.json
+D:/code/labs/Lab5/LinearAlgebra/bin/Debug/net6.0/LinearAlgebra.dll
+D:/code/labs/Lab5/LinearAlgebra/bin/Debug/net6.0/ref/LinearAlgebra.dll
+D:/code/labs/Lab5/LinearAlgebra/bin/Debug/net6.0/LinearAlgebra.pdb
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/LinearAlgebra/bin/Debug/net6.0/LinearAlgebra.deps.json
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/LinearAlgebra/bin/Debug/net6.0/LinearAlgebra.dll
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/LinearAlgebra/bin/Debug/net6.0/ref/LinearAlgebra.dll
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/LinearAlgebra/bin/Debug/net6.0/LinearAlgebra.pdb
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.csproj.AssemblyReference.cache
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.GeneratedMSBuildEditorConfig.editorconfig
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.AssemblyInfoInputs.cache
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.AssemblyInfo.cs
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.csproj.CoreCompileInputs.cache
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.dll
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/LinearAlgebra/obj/Debug/net6.0/ref/LinearAlgebra.dll
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.pdb
+/home/ataev/Рабочий стол/Labs/Lab8/LinearAlgebra/bin/Debug/net6.0/LinearAlgebra.deps.json
+/home/ataev/Рабочий стол/Labs/Lab8/LinearAlgebra/bin/Debug/net6.0/LinearAlgebra.dll
+/home/ataev/Рабочий стол/Labs/Lab8/LinearAlgebra/bin/Debug/net6.0/ref/LinearAlgebra.dll
+/home/ataev/Рабочий стол/Labs/Lab8/LinearAlgebra/bin/Debug/net6.0/LinearAlgebra.pdb
+/home/ataev/Рабочий стол/Labs/Lab8/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.csproj.AssemblyReference.cache
+/home/ataev/Рабочий стол/Labs/Lab8/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.GeneratedMSBuildEditorConfig.editorconfig
+/home/ataev/Рабочий стол/Labs/Lab8/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.AssemblyInfoInputs.cache
+/home/ataev/Рабочий стол/Labs/Lab8/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.AssemblyInfo.cs
+/home/ataev/Рабочий стол/Labs/Lab8/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.csproj.CoreCompileInputs.cache
+/home/ataev/Рабочий стол/Labs/Lab8/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.dll
+/home/ataev/Рабочий стол/Labs/Lab8/LinearAlgebra/obj/Debug/net6.0/ref/LinearAlgebra.dll
+/home/ataev/Рабочий стол/Labs/Lab8/LinearAlgebra/obj/Debug/net6.0/LinearAlgebra.pdb

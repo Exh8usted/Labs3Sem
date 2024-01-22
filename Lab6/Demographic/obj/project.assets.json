@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Demographic.FileOperations/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Demographic.FileOperations.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Demographic.FileOperations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demographic.FileOperations/1.0.0": {
+      "type": "project",
+      "path": "../Demographic.FileOperations/Demographic.FileOperations.csproj",
+      "msbuildProject": "../Demographic.FileOperations/Demographic.FileOperations.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Demographic.FileOperations >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/ataev/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/ataev/Рабочий стол/Labs/Lab6/Demographic/Demographic.csproj",
+      "projectName": "Demographic",
+      "projectPath": "/home/ataev/Рабочий стол/Labs/Lab6/Demographic/Demographic.csproj",
+      "packagesPath": "/home/ataev/.nuget/packages/",
+      "outputPath": "/home/ataev/Рабочий стол/Labs/Lab6/Demographic/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/ataev/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/home/ataev/Рабочий стол/Labs/Lab6/Demographic.FileOperations/Demographic.FileOperations.csproj": {
+              "projectPath": "/home/ataev/Рабочий стол/Labs/Lab6/Demographic.FileOperations/Demographic.FileOperations.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.125/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

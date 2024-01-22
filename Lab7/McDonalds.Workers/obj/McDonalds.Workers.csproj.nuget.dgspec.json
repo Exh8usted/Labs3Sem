@@ -1,0 +1,175 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.Workers/McDonalds.Workers.csproj": {}
+  },
+  "projects": {
+    "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.AdditionalClasses/McDonalds.AdditionalClasses.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.AdditionalClasses/McDonalds.AdditionalClasses.csproj",
+        "projectName": "McDonalds.AdditionalClasses",
+        "projectPath": "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.AdditionalClasses/McDonalds.AdditionalClasses.csproj",
+        "packagesPath": "/home/ataev/.nuget/packages/",
+        "outputPath": "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.AdditionalClasses/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ataev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.126/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.Emitters/McDonalds.Emitters.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.Emitters/McDonalds.Emitters.csproj",
+        "projectName": "McDonalds.Emitters",
+        "projectPath": "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.Emitters/McDonalds.Emitters.csproj",
+        "packagesPath": "/home/ataev/.nuget/packages/",
+        "outputPath": "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.Emitters/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ataev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.AdditionalClasses/McDonalds.AdditionalClasses.csproj": {
+                "projectPath": "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.AdditionalClasses/McDonalds.AdditionalClasses.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.126/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.Workers/McDonalds.Workers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.Workers/McDonalds.Workers.csproj",
+        "projectName": "McDonalds.Workers",
+        "projectPath": "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.Workers/McDonalds.Workers.csproj",
+        "packagesPath": "/home/ataev/.nuget/packages/",
+        "outputPath": "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.Workers/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ataev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.AdditionalClasses/McDonalds.AdditionalClasses.csproj": {
+                "projectPath": "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.AdditionalClasses/McDonalds.AdditionalClasses.csproj"
+              },
+              "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.Emitters/McDonalds.Emitters.csproj": {
+                "projectPath": "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.Emitters/McDonalds.Emitters.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.126/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "workSeconds": 60,
+  "generateNewOrderProb": 0.8,
+  "returnOrderProb": 0.3,
+  "stuffAmount": [
+    2,
+    1,
+    1,
+    1,
+    1
+  ],
+  "logFilePath": "./log.txt",
+  "cheeseburgerProb": 0.25,
+  "bigSpecialProb": 0.4,
+  "friesProb": 0.5,
+  "nuggetsProb": 0.3,
+  "colaProb": 0.7,
+  "coffeeProb": 0.7,
+  "cheeseburgerAmount": 3,
+  "bigSpecialAmount": 2,
+  "friesAmount": 2,
+  "nuggetsAmount": 1,
+  "colaAmount": 3,
+  "coffeeAmount": 1,
+  "beginnerWorkTime": 3,
+  "intermediateWorkTime": 2,
+  "professionalWorkTime": 1,
+  "cashierMsMultiplier": 300,
+  "cookMsMultiplier": 500,
+  "deepFryerMsMultiplier": 400,
+  "drinksManMsMultiplier": 200,
+  "orderCollectorMsMultiplier": 200,
+  "cashierLevelProbs": [
+    0.5,
+    0.8,
+    1
+  ],
+  "cookLevelProbs": [
+    0.3,
+    0.6,
+    1
+  ],
+  "deepFryerLevelProbs": [
+    0.4,
+    0.6,
+    1
+  ],
+  "drinksManLevelProbs": [
+    0.3,
+    0.8,
+    1
+  ],
+  "orderCollectorLevelProbs": [
+    0.3,
+    0.4,
+    1
+  ]
+}

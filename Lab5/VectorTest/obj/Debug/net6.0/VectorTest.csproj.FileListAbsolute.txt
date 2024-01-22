@@ -1,0 +1,36 @@
+D:/code/labs/Lab5/VectorTest/obj/Debug/net6.0/VectorTest.GlobalUsings.g.cs
+D:/code/labs/Lab5/VectorTest/obj/Debug/net6.0/VectorTest.csproj.AssemblyReference.cache
+D:/code/labs/Lab5/VectorTest/obj/Debug/net6.0/VectorTest.GeneratedMSBuildEditorConfig.editorconfig
+D:/code/labs/Lab5/VectorTest/obj/Debug/net6.0/VectorTest.AssemblyInfoInputs.cache
+D:/code/labs/Lab5/VectorTest/obj/Debug/net6.0/VectorTest.AssemblyInfo.cs
+D:/code/labs/Lab5/VectorTest/obj/Debug/net6.0/VectorTest.csproj.CoreCompileInputs.cache
+D:/code/labs/Lab5/VectorTest/bin/Debug/net6.0/VectorTest.exe
+D:/code/labs/Lab5/VectorTest/bin/Debug/net6.0/VectorTest.deps.json
+D:/code/labs/Lab5/VectorTest/bin/Debug/net6.0/VectorTest.runtimeconfig.json
+D:/code/labs/Lab5/VectorTest/bin/Debug/net6.0/VectorTest.dll
+D:/code/labs/Lab5/VectorTest/bin/Debug/net6.0/ref/VectorTest.dll
+D:/code/labs/Lab5/VectorTest/bin/Debug/net6.0/VectorTest.pdb
+D:/code/labs/Lab5/VectorTest/bin/Debug/net6.0/LinearAlgebra.dll
+D:/code/labs/Lab5/VectorTest/bin/Debug/net6.0/LinearAlgebra.pdb
+D:/code/labs/Lab5/VectorTest/obj/Debug/net6.0/VectorTest.dll
+D:/code/labs/Lab5/VectorTest/obj/Debug/net6.0/ref/VectorTest.dll
+D:/code/labs/Lab5/VectorTest/obj/Debug/net6.0/VectorTest.pdb
+D:/code/labs/Lab5/VectorTest/obj/Debug/net6.0/VectorTest.genruntimeconfig.cache
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/VectorTest/bin/Debug/net6.0/VectorTest
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/VectorTest/bin/Debug/net6.0/VectorTest.deps.json
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/VectorTest/bin/Debug/net6.0/VectorTest.runtimeconfig.json
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/VectorTest/bin/Debug/net6.0/VectorTest.dll
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/VectorTest/bin/Debug/net6.0/ref/VectorTest.dll
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/VectorTest/bin/Debug/net6.0/VectorTest.pdb
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/VectorTest/bin/Debug/net6.0/LinearAlgebra.dll
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/VectorTest/bin/Debug/net6.0/LinearAlgebra.pdb
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/VectorTest/obj/Debug/net6.0/VectorTest.csproj.AssemblyReference.cache
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/VectorTest/obj/Debug/net6.0/VectorTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/VectorTest/obj/Debug/net6.0/VectorTest.AssemblyInfoInputs.cache
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/VectorTest/obj/Debug/net6.0/VectorTest.AssemblyInfo.cs
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/VectorTest/obj/Debug/net6.0/VectorTest.csproj.CoreCompileInputs.cache
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/VectorTest/obj/Debug/net6.0/VectorTest.csproj.CopyComplete
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/VectorTest/obj/Debug/net6.0/VectorTest.dll
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/VectorTest/obj/Debug/net6.0/ref/VectorTest.dll
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/VectorTest/obj/Debug/net6.0/VectorTest.pdb
+/home/ataev/Рабочий стол/Labs/Lab5/Lab5/VectorTest/obj/Debug/net6.0/VectorTest.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uJEFN6g71j5LJB3vtXEgDiG7lDM64AX9A3SzFbmoTbE6bVI0E5nP5j5jMUCr+G+BWP/pnPCFDSRS8dTXcI5vQA==",
+  "success": true,
+  "projectFilePath": "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.Exec/McDonalds.Exec.csproj",
+  "expectedPackageFiles": [
+    "/home/ataev/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

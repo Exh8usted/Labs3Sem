@@ -1,0 +1,12 @@
+/home/ataev/Рабочий стол/Labs/Lab6/Demographic.FileOperations/bin/Debug/net6.0/Demographic.FileOperations.deps.json
+/home/ataev/Рабочий стол/Labs/Lab6/Demographic.FileOperations/bin/Debug/net6.0/Demographic.FileOperations.dll
+/home/ataev/Рабочий стол/Labs/Lab6/Demographic.FileOperations/bin/Debug/net6.0/ref/Demographic.FileOperations.dll
+/home/ataev/Рабочий стол/Labs/Lab6/Demographic.FileOperations/bin/Debug/net6.0/Demographic.FileOperations.pdb
+/home/ataev/Рабочий стол/Labs/Lab6/Demographic.FileOperations/obj/Debug/net6.0/Demographic.FileOperations.csproj.AssemblyReference.cache
+/home/ataev/Рабочий стол/Labs/Lab6/Demographic.FileOperations/obj/Debug/net6.0/Demographic.FileOperations.GeneratedMSBuildEditorConfig.editorconfig
+/home/ataev/Рабочий стол/Labs/Lab6/Demographic.FileOperations/obj/Debug/net6.0/Demographic.FileOperations.AssemblyInfoInputs.cache
+/home/ataev/Рабочий стол/Labs/Lab6/Demographic.FileOperations/obj/Debug/net6.0/Demographic.FileOperations.AssemblyInfo.cs
+/home/ataev/Рабочий стол/Labs/Lab6/Demographic.FileOperations/obj/Debug/net6.0/Demographic.FileOperations.csproj.CoreCompileInputs.cache
+/home/ataev/Рабочий стол/Labs/Lab6/Demographic.FileOperations/obj/Debug/net6.0/Demographic.FileOperations.dll
+/home/ataev/Рабочий стол/Labs/Lab6/Demographic.FileOperations/obj/Debug/net6.0/ref/Demographic.FileOperations.dll
+/home/ataev/Рабочий стол/Labs/Lab6/Demographic.FileOperations/obj/Debug/net6.0/Demographic.FileOperations.pdb

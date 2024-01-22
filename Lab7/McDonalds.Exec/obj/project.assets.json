@@ -1,0 +1,206 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "McDonalds/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "McDonalds.Emitters": "1.0.0",
+          "McDonalds.Workers": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/McDonalds.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/McDonalds.dll": {}
+        }
+      },
+      "McDonalds.AdditionalClasses/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/McDonalds.AdditionalClasses.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/McDonalds.AdditionalClasses.dll": {}
+        }
+      },
+      "McDonalds.Emitters/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "McDonalds.AdditionalClasses": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/McDonalds.Emitters.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/McDonalds.Emitters.dll": {}
+        }
+      },
+      "McDonalds.FileOperations/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "McDonalds.AdditionalClasses": "1.0.0",
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "compile": {
+          "bin/placeholder/McDonalds.FileOperations.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/McDonalds.FileOperations.dll": {}
+        }
+      },
+      "McDonalds.Workers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "McDonalds.AdditionalClasses": "1.0.0",
+          "McDonalds.Emitters": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/McDonalds.Workers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/McDonalds.Workers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "McDonalds/1.0.0": {
+      "type": "project",
+      "path": "../McDonalds/McDonalds.csproj",
+      "msbuildProject": "../McDonalds/McDonalds.csproj"
+    },
+    "McDonalds.AdditionalClasses/1.0.0": {
+      "type": "project",
+      "path": "../McDonalds.AdditionalClasses/McDonalds.AdditionalClasses.csproj",
+      "msbuildProject": "../McDonalds.AdditionalClasses/McDonalds.AdditionalClasses.csproj"
+    },
+    "McDonalds.Emitters/1.0.0": {
+      "type": "project",
+      "path": "../McDonalds.Emitters/McDonalds.Emitters.csproj",
+      "msbuildProject": "../McDonalds.Emitters/McDonalds.Emitters.csproj"
+    },
+    "McDonalds.FileOperations/1.0.0": {
+      "type": "project",
+      "path": "../McDonalds.FileOperations/McDonalds.FileOperations.csproj",
+      "msbuildProject": "../McDonalds.FileOperations/McDonalds.FileOperations.csproj"
+    },
+    "McDonalds.Workers/1.0.0": {
+      "type": "project",
+      "path": "../McDonalds.Workers/McDonalds.Workers.csproj",
+      "msbuildProject": "../McDonalds.Workers/McDonalds.Workers.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "McDonalds >= 1.0.0",
+      "McDonalds.FileOperations >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/ataev/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.Exec/McDonalds.Exec.csproj",
+      "projectName": "McDonalds.Exec",
+      "projectPath": "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.Exec/McDonalds.Exec.csproj",
+      "packagesPath": "/home/ataev/.nuget/packages/",
+      "outputPath": "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.Exec/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/ataev/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.FileOperations/McDonalds.FileOperations.csproj": {
+              "projectPath": "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds.FileOperations/McDonalds.FileOperations.csproj"
+            },
+            "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds/McDonalds.csproj": {
+              "projectPath": "/home/ataev/Рабочий стол/Labs/Lab7/McDonalds/McDonalds.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.126/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
